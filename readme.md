@@ -1,6 +1,8 @@
 # Alexa virtual Assistant
 
 This is a freelance project for one of my US Client where the Assistant act like a reminder with a specific voice note.
+*Fiverr : https://www.fiverr.com/hammad788*
+*Upwork : https://www.upwork.com/freelancers/hammadnadeem*
 
 ## Overview
 
